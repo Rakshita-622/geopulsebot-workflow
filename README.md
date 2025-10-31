@@ -12,12 +12,11 @@ Tech Stack-
 - n8n No-Code Platform  
 - Discord Webhooks
 
-Worklflow Link:
-https://drive.google.com/file/d/1GA6kn7XtMs05xXk1HSTeuX9ar8egj75j/view?usp=sharing
 
 Demo Screenshot:
-![image](https://github.com/user-attachments/assets/2ed32fda-1d01-4e35-b21f-cb4ff93ad547)
-![image](https://github.com/user-attachments/assets/1c935d64-e3f1-40f3-b0a4-2dfc9ac14907)
+![screenshot1](https://github.com/user-attachments/assets/6d15ade9-d8fe-4a30-805a-4f84e7b9a6a5)
+![screenshot2](https://github.com/user-attachments/assets/7da3dd9b-63cc-4182-8047-a2ef35a4958a)
+
 
 
 Setup 
